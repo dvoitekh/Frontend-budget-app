@@ -53,7 +53,7 @@ body{
 }
 
 #search_tools{
-	text-align: left;
+	text-align: center;
 	margin-top: 10px;
 }
 
@@ -61,17 +61,6 @@ body{
 	padding: 5px;
 	border-radius: 5px;
 	border: 1px solid grey;
-	display: block;
-	
-}
-
-.main-buttons{
-	padding-left: 3%;
-	margin: auto;
-}
-
-#button{
-	margin-left:16%;
 }
 
 #sum_input, #info_input{
