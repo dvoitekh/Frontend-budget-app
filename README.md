@@ -10,7 +10,7 @@ It's a simple front-end budget application implemented using html, css and javas
   * `Search by description` to find items by their description (or part of description)
   * `Search by sum absolute value` to find items by absolute value of their sum (find all items with absolute value bigger than entered)  
 5. Results of search are depicted in the separate table
-6. Validation for all kind of input: empty field, non-numeric value in the `sum` field
+6. Validation for all kind of input: empty field, non-numeric value in the `sum` field, negative absolute sum value etc.
 
 ## How to run this app
 If you want to run this app on your computer follow these steps:
