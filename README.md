@@ -15,7 +15,8 @@ It's a simple front-end budget application implemented using html, css and javas
 ## How to run this app
 If you want to run this app on your computer follow these steps:
 - download this repository
--	open `index.html` file in it using your browser  
+-	open `index.html` file in it using your browser
+
 Now you will see the app web page.
 
 ## How to use this app
