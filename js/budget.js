@@ -23,7 +23,7 @@ function check(){
 	var input = document.createElement('input');
 	input.type = 'number';
 	input.step = '0.01';
-	input.placeholder = 'Enter sum absolute value';
+	input.placeholder = 'Enter sum abs';
 	input.id = 'search_input';
 	var element = document.getElementById('search_tools');
 	element.appendChild(input);
