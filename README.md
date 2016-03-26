@@ -9,13 +9,13 @@ It's a simple front-end budget application implemented using html, css and javas
 4. In radio button group there are `Search tools`:
   * `Search by description` to find items by their description (or part of description)
   * `Search by sum absolute value` to find items by absolute value of their sum (find all items with absolute value bigger than entered)  
-5. Results of search are depicted in the separate table.
-6. Validation for all kind of input: empty field, non-numeric value in the `sum` field.
+5. Results of search are depicted in the separate table
+6. Validation for all kind of input: empty field, non-numeric value in the `sum` field
+
 ## How to run this app
 If you want to run this app on your computer follow these steps:
 - download this repository
--	open `index.html` file in it using your browser
-
+-	open `index.html` file in it using your browser  
 Now you will see the app web page.
 
 ## How to use this app
