@@ -13,7 +13,7 @@ It's a simple front-end budget application implemented using html, css and javas
 6. Validation for all kind of input: empty field, non-numeric value in the `sum` field, negative absolute sum value etc.
 
 ## How to run this app
-If you want to run this app on your computer follow these steps:
+If you want to run this app on your computer, follow these steps:
 - download this repository
 -	open `index.html` file in it using your browser
 
