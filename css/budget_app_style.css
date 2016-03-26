@@ -1,0 +1,172 @@
+/* App style */
+body{
+	margin: 0;
+	height: 100%;
+	background: url(../img/pict.jpg);
+	background-size: 1400px 850px;
+	background-position: top right;
+	margin-top:50px;
+	/*font-family: Colibri;*/
+	font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+
+}
+
+.row{
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	font-size: 14px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+
+.first{
+	border-top: 1px solid black;
+	margin-top: 20px;
+}
+
+.green{
+	background-color: rgba(4,210,4,0.5);
+}
+
+.red{
+	background-color: rgba(240,0,0,0.5);
+}
+
+#info{
+	border-left: 1px solid black;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+#sum{
+	text-align:center;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+#del-button{
+	text-align:center;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+#search_tools{
+	text-align: left;
+	margin-top: 10px;
+}
+
+#search_input{
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	display: block;
+	
+}
+
+.main-buttons{
+	padding-left: 3%;
+	margin: auto;
+}
+
+#button{
+	margin-left:16%;
+}
+
+#sum_input, #info_input{
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.text{
+	margin:0;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border: none;
+	background: rgba(0,0,0,0.2);
+}
+
+a.delete-button{
+	vertical-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+}
+
+a.delete-button:active{
+	color:grey;
+	text-decoration: none;
+}
+a.delete-button:hover{
+	color:grey;
+	text-decoration: none;
+}
+
+/* Buttons */
+.hot-container p b{ margin-top: 10px; font-size: 14px; text-transform: uppercase;}
+.hot-container p{ margin-top: 10px; font-size: 14px;}
+a { text-decoration: none; margin: 0 10px; }
+
+.hot-container {
+	min-height: 100px;
+	/*margin-top: 50px;*/
+
+	/*width: 49%;*/
+	text-align: center;
+	/*display: inline-block;*/
+	/*background: rgba(0,0,0,0.2);*/
+	
+	/*vertical-align: center;*/
+}
+
+
+
+a.btn {
+	display: inline-block;
+	color: #666;
+	background-color: #eee;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 12px;
+	padding: 10px 30px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid rgba(0,0,0,0.3);
+	border-bottom-width: 3px;
+	margin-bottom: 11px;
+	margin-top: 15px;
+}
+
+	a.btn:hover {
+		background-color: #e3e3e3;
+		border-color: rgba(0,0,0,0.5);
+	}
+	
+	a.btn:active {
+		background-color: #CCC;
+		border-color: rgba(0,0,0,0.9);
+	}
+
+/* red button */
+
+a.btn.btn-red {
+	background-color: #E48681;
+	border-color: rgba(0,0,0,0.3);
+	text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+	color: #FFF;
+}
+
+	a.btn.btn-red:hover {
+		background-color: #DA4F49;
+		border-color: rgba(0,0,0,0.5);
+	}
+	
+	a.btn.btn-red:active {
+		background-color: #B32C24;
+		border-color: rgba(0,0,0,0.9);
+	}
