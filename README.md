@@ -23,4 +23,4 @@ Now you will see the app web page.
 - Add items by filling `sum` and `puspose` fields and clicking on `Add` button
 - Sum up all existing items using `Sum up` button (warning: this action removes all items and produces one with aggregate sum and current date as description)
 - Delete items using `Delete` button
-- Search amoung created items upon two different criteria by filling an appropriate search field (absolute sum value or description).
+- Search amoung created items upon two different criteria by filling an appropriate search field (sum absolute value or description) and clicking on `Search` button.
