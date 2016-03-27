@@ -1,6 +1,6 @@
 # About app
 
-It's a simple front-end budget application implemented using html, css and javascript. You can see it running on [Git-pages](http://dvoitekh.github.io/#).
+It's a simple frontend budget application implemented using html, css and javascript. You can see it running on [Git-pages](http://dvoitekh.github.io/#).
 
 ## Features
 1. `Add` button to add items with `sum` and `puspose` fields
